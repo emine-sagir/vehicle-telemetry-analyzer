@@ -16,7 +16,6 @@ The program reads simulated telemetry data from a CSV file and calculates:
 
 The sample dataset represents basic telemetry values from a vehicle system, such as battery level, depth, speed, temperature, and status messages.
 
-````markdown
 ## Repository Structure
 
 ```text
@@ -26,8 +25,6 @@ vehicle-telemetry-analyzer/
 ├── src/
 │   └── telemetry_analyzer.py
 └── README.md
-```text
-```
 ```
 
 ## Sample Data
