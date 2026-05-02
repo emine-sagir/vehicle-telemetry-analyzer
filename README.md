@@ -54,6 +54,7 @@ python src/telemetry_analyzer.py
 
 ## Example Output
 
+```bash
 Vehicle Telemetry Report
 ------------------------
 Maximum depth: 6.7 m
@@ -65,6 +66,7 @@ Status counts:
 - OK: 10
 - LOW_BATTERY: 2
 - CRITICAL_BATTERY: 1
+```
 
 ## Skills Practiced
 
