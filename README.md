@@ -43,3 +43,42 @@ Example status values:
 - OK
 - LOW_BATTERY
 - CRITICAL_BATTERY
+
+## How to Run
+
+From the project root directory, run:
+
+```bash
+python src/telemetry_analyzer.py
+```
+
+## Example Output
+
+Vehicle Telemetry Report
+------------------------
+Maximum depth: 6.7 m
+Maximum speed: 1.4 m/s
+Minimum battery level: 8%
+Average speed: 0.82 m/s
+
+Status counts:
+- OK: 10
+- LOW_BATTERY: 2
+- CRITICAL_BATTERY: 1
+
+## Skills Practiced
+
+- Python fundamentals
+- CSV file handling
+- Basic data analysis
+- Working with structured data
+- Simple reporting
+- GitHub project organization
+
+## Future Improvements
+
+- adding data validation
+- exporting the report to a text file
+- adding simple plots for telemetry trends
+- detecting abnormal values automatically
+- creating a C version of the analyzer
