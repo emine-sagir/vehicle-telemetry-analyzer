@@ -1,0 +1,11 @@
+Vehicle Telemetry Report
+------------------------
+Maximum depth: 6.7 m
+Maximum speed: 1.4 m/s
+Minimum battery level: 8%
+Average speed: 0.82 m/s
+
+Status counts:
+- OK: 10
+- LOW_BATTERY: 2
+- CRITICAL_BATTERY: 1
